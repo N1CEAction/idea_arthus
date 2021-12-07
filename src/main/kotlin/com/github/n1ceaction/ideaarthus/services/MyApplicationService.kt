@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.n1ceaction.ideaarthus.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.n1ceaction.ideaarthus.MyBundle
 
 class MyApplicationService {
 
